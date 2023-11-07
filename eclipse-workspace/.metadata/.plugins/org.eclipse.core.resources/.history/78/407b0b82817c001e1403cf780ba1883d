@@ -1,0 +1,10 @@
+package Prog.unidad03.excepciones;
+
+public class MayorMenorMediaExcepcionesApp {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+
+  }
+
+}

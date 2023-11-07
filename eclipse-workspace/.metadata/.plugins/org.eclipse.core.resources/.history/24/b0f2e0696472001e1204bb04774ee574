@@ -1,0 +1,10 @@
+package prog.unidad01.actividad206.paralelogramoapp;
+
+public class ParalelogramosApp {
+
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+
+  }
+
+}

@@ -1,0 +1,46 @@
+package prog.unidad01.actividad206.paralelogramoapp;
+
+import java.util.Random;
+import java.util.Scanner;
+
+import es.iespablopicasso.programacion.bloque02.figuras.Paralelogramo;
+
+
+public class ParalelogramosApp {
+
+  public static void main(String[] args) {
+    Scanner sc = new Scanner (System.in);
+    //Declaro las variables
+    double horizontal;
+    double vertical;
+    double escala;
+    String cadena;
+    String cadena2 = ";";
+    String cadena3;
+    System.out.println("EXAMEN DE AARÓN ORTIZ.PROPIEDADES DE LOS PARALELOGRAMOS");
+    //Pido el lado horizontal del paralelogramo   
+    System.out.println("Dime la longitud de los lados horizontales del paralelogramo");
+    horizontal=Double.parseDouble(sc.nextLine());
+    //Pido el lado vertical del paralelogramo
+    System.out.println("Introduzca el lado vertical");
+   vertical=Double.parseDouble(sc.nextLine());
+   //creo el paralelogramo
+   Paralelogramo paralelogramo1= new Paralelogramo(horizontal,vertical);
+   //Muestro el area y el perimetro ayudandome de las cadenas
+   System.out.println(paralelogramo1.getAreaPerimetro());
+   cadena=paralelogramo1.getAreaPerimetro();
+   System.out.println("El area es "+cadena.substring(0,cadena.indexOf(cadena2)));
+   System.out.println("El perimetro  es "+cadena.substring(cadena.indexOf(cadena2)+1,cadena.length()));
+   System.out.println("Introduzca el valor de escala");
+   //Doy el valor de la escala
+   escala=Double.parseDouble(sc.nextLine());
+   paralelogramo1.escala(escala);
+   System.out.println("El area vale ahora "+cadena.substring(0,cadena.indexOf(cadena2)));
+   System.out.println("El perimetro  vale ahora "+cadena.substring(cadena.indexOf(cadena2)+1,cadena.length()));
+   
+  
+    
+    
+
+  }
+}

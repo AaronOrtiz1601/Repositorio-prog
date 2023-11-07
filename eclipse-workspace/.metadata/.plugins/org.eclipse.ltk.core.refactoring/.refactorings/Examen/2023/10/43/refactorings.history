@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;prog.unidad01.actividad206.paralelogramoapp&apos; to &apos;prog.unidad01.actividad206&apos;&#x0D;&#x0A;- Original project: &apos;Examen&apos;&#x0D;&#x0A;- Original element: &apos;Examen/src/prog.unidad01.actividad206.paralelogramoapp&apos;&#x0D;&#x0A;- Renamed element: &apos;Examen/src/prog.unidad01.actividad206&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;prog.unidad01.actividad206.paralelogramoapp&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;prog.unidad01.actividad206.paralelogramoapp" name="prog.unidad01.actividad206" qualified="false" references="true" stamp="1698319578119" textual="false" version="1.0"/>
+</session>

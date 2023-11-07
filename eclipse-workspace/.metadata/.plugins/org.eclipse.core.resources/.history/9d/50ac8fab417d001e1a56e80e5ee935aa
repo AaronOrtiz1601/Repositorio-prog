@@ -1,0 +1,74 @@
+import java.util.Scanner;
+
+public class ejtm {
+
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    double n1;
+    double n2;
+    double n3;
+    double mayor=0;
+    double menor=0;
+    double medio=0;
+    
+    System.out.println("Dime tres numeros y te dire cual es el mayor, cual el menor y cual el del medio");
+   System.out.println("num 1");
+    n1=Double.parseDouble(sc.nextLine());
+    System.out.println("num 2");
+    n2=Double.parseDouble(sc.nextLine());
+    System.out.println("num 3");
+    n3=Double.parseDouble(sc.nextLine());
+    if ((n1>n2)&&(n1>n3)) {
+      n1=mayor;
+      if (n2>n3) {
+        n2=medio;
+        n3=menor;
+      }else if((n1<n2)&&(n1>n3))
+      {
+        n2=mayor;
+        n1=medio;
+        n3=menor;
+      }else if ((n1<n2)&&(n1<n3))
+      {
+        n1=menor;
+        if(n2>n3)
+        {
+          n2=mayor;
+          n3=medio;
+        }else
+        {
+          n3=mayor;
+          n2=medio;
+        }
+      }
+      
+    }
+    if ((n2>n1)&&(n2>n3)) {
+      n2=mayor;
+      if (n1>n3) {
+        n1=medio;
+        n3=menor;
+      }else if((n2<n1)&&(n2>n3))
+      {
+        n1=mayor;
+        n2=medio;
+        n3=menor;
+      }else if ((n2<n1)&&(n2<n3))
+      {
+        n2=menor;
+        if(n1>n3)
+        {
+          n1=mayor;
+          n3=medio;
+        }else
+        {
+          n3=mayor;
+          n1=medio;
+        }
+      }
+      
+    }
+   System.out.println("El mayor es "+mayor+" El menor es "+menor+"El valor medio es "+medio );
+  }
+
+}

@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class ejtm {
+
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+   double mayor=0;
+   double medio=0;
+   double menor=0;
+   double numero;
+   for(int i=0;i<3;i++)
+   {
+     System.out.println("Introduce un numero");
+     numero=Double.parseDouble(sc.nextLine());
+     if((numero>mayor)||(mayor==0))
+     {
+       mayor=numero;
+     }
+     
+     if((numero<menor)||(menor==0))
+     {
+       menor=numero;
+     }
+     if((numero<mayor)&&(numero>menor))
+     {
+       medio=numero;
+     }
+     
+   }
+   System.out.println(mayor+" "+medio+" "+menor);
+
+}
+}
