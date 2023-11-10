@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Actividad 2.02/src"/>
+	<classpathentry kind="src" path="actividad 2.03a/src"/>
+	<classpathentry kind="src" path="actividad 2.03b/src"/>
+	<classpathentry kind="src" path="actividad 2.03c/src"/>
+	<classpathentry kind="src" path="Actividad 2.04a/src"/>
+	<classpathentry kind="src" path="Actividad 2.04c/src"/>
+	<classpathentry kind="src" path="Actividad 3.01a/src"/>
+	<classpathentry kind="src" path="Actividadad 2.04b/src"/>
+	<classpathentry kind="src" path="ApuntesTema3/src"/>
+	<classpathentry kind="src" path="Bucles/src"/>
+	<classpathentry kind="src" path="ejemplo2/src"/>
+	<classpathentry kind="src" path="ejercicio para debugar/src"/>
+	<classpathentry kind="src" path="Examen/src"/>
+	<classpathentry kind="src" path="Excepciones/src"/>
+	<classpathentry kind="src" path="manolo pj4/src"/>
+	<classpathentry kind="src" path="Manolo practica/src"/>
+	<classpathentry kind="src" path="manolo practica2/src"/>
+	<classpathentry kind="src" path="Manolo practica 3/src"/>
+	<classpathentry kind="src" path="manolo practica5/src"/>
+	<classpathentry kind="src" path="Porjecto 15/src"/>
+	<classpathentry kind="src" path="projecto 10/src"/>
+	<classpathentry kind="src" path="projecto 11/src"/>
+	<classpathentry kind="src" path="Projecto 14/src"/>
+	<classpathentry kind="src" path="Projecto 16/src"/>
+	<classpathentry kind="src" path="Projecto 17/src"/>
+	<classpathentry kind="src" path="projecto 19/src"/>
+	<classpathentry kind="src" path="projecto 9/src"/>
+	<classpathentry kind="src" path="proycto6/src"/>
+	<classpathentry kind="src" path="proyecto 12/src"/>
+	<classpathentry kind="src" path="Proyecto 13/src"/>
+	<classpathentry kind="src" path="proyecto 6/src"/>
+	<classpathentry kind="output" path="Actividad 2.02/bin"/>
+</classpath>
