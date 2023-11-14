@@ -180,3 +180,4 @@ System.out.println("¿Tienes la tarjeta CineCampa (S para si y N para no)?");
   }
 
 }
+// si lo hago con string usar string.toUpperCase().equals("condicion")

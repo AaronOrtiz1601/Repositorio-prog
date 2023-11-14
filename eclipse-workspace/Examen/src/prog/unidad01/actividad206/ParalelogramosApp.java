@@ -17,6 +17,7 @@ public class ParalelogramosApp {
     String cadena;
     String cadena2 = ";";
     String cadena3;
+    double paco;
     System.out.println("EXAMEN DE AARÓN ORTIZ.PROPIEDADES DE LOS PARALELOGRAMOS");
     //Pido el lado horizontal del paralelogramo   
     System.out.println("Dime la longitud de los lados horizontales del paralelogramo");
@@ -32,6 +33,7 @@ public class ParalelogramosApp {
    System.out.println("El area es "+cadena.substring(0,cadena.indexOf(cadena2)));
    System.out.println("El perimetro  es "+cadena.substring(cadena.indexOf(cadena2)+1,cadena.length()));
    System.out.println("Introduzca el valor de escala");
+   paco=Double.parseDouble(cadena);
    //Doy el valor de la escala
    escala=Double.parseDouble(sc.nextLine());
    paralelogramo1.escala(escala);
