@@ -5,4 +5,7 @@
     <fullyQualifiedTypeName name="javax.print.attribute.IntegerSyntax"/>
     <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="prog.unidad04.prueba.PruebaPizzaApp"/>
+    <fullyQualifiedTypeName name="prog.unidad04.actividad402.ejercicio05.Zona"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
