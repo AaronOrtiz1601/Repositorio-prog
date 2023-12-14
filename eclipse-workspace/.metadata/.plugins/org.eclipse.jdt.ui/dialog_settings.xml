@@ -140,6 +140,7 @@
 		<item key="JarManifestWizardPage.MANIFEST_LOCATION" value=""/>
 		<item key="JarManifestWizardPage.SEAL_JAR" value="false"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Users\Aarón\Desktop\libreria.jar"/>
 			<item value="C:\Users\Aarón\Desktop\dni.jar"/>
 			<item value="C:\Users\Aarón\Desktop\persona.jar"/>
 		</list>
@@ -153,5 +154,8 @@
 		<item key="DIALOG_WIDTH" value="658"/>
 		<item key="DIALOG_HEIGHT" value="661"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="1"/>
 	</section>
 </section>
