@@ -1,9 +1,9 @@
-package prog.unidad04.actividad406.libreria;
+package prog.unidad04.practica406.libreria;
 
-public class Motocicleta extends Vehiculo {
+public class Motocicleta extends Vehiculo implements ConvertibleATexto {
   
   protected int cilindrada;
-  Motocicleta(String matricula , Fecha fechaMatriculacion , int cilindrada)
+  public Motocicleta(String matricula , Fecha fechaMatriculacion , int cilindrada)
   {
     super(matricula, fechaMatriculacion);
     comprobarCilindrada(cilindrada);
@@ -19,10 +19,10 @@ public class Motocicleta extends Vehiculo {
   public int getCilindrada() {
     return cilindrada;
   }
-  public String aTexto()
-  {
-    String cadena="";
-    return cadena;
+  @Override
+  public String aTexto() {
+    // TODO Auto-generated method stub
+    return null;
   }
   private boolean comprobarCilindrada(int cilindrada)
   {

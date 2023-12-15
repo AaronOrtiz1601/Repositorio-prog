@@ -1,6 +1,6 @@
-package prog.unidad04.actividad406.libreria;
+package prog.unidad04.practica406.libreria;
 
-public class Vehiculo {
+public class Vehiculo  implements ConvertibleATexto{
   protected Fecha fechaMatriculacion;
   protected String matricula;
   protected static int vehiculosMatriculados;
@@ -8,9 +8,8 @@ public class Vehiculo {
   protected Vehiculo(String matricula,Fecha fechaMatriculacion) 
   {
     boolean prueba=false;
-    do
-    {
-      matriculaCorrecta(matricula);
+    
+    
      if(matriculaCorrecta(matricula) == true)
      {
     this.matricula = matricula;
@@ -19,9 +18,18 @@ public class Vehiculo {
      {
        throw new IllegalArgumentException();
      }
-    this.fechaMatriculacion=fechaMatriculacion;
-    }while(prueba!=true);
-    vehiculosMatriculados++;
+     if ( fechaMatriculacion == null)
+     {
+       throw new IllegalArgumentException();
+     }
+     else
+     {
+       this.fechaMatriculacion=fechaMatriculacion;
+       vehiculosMatriculados++;
+     }
+    
+    
+    
   }
 
   public Fecha getFechaMatriculacion() {
@@ -30,6 +38,12 @@ public class Vehiculo {
 
   public String getMatricula() {
     return matricula;
+  }
+
+  @Override
+  public String aTexto() {
+    // TODO Auto-generated method stub
+    return null;
   }
 
   public static int getVehiculosMatriculados() {
@@ -64,15 +78,11 @@ public class Vehiculo {
       }
     }
 
-    if (esValida == true) {
-      System.out.println("La matrícula es válida.");
-    } else {
-      System.out.println("La matrícula es inválida.");
-    }
     
     return esValida;
     
   }
+
   
 
 }

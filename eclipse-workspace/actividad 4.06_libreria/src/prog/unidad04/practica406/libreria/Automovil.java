@@ -1,4 +1,4 @@
-package prog.unidad04.actividad406.libreria;
+package prog.unidad04.practica406.libreria;
 
 public class Automovil extends Vehiculo {
   
@@ -12,7 +12,6 @@ public class Automovil extends Vehiculo {
   public Automovil (String matricula,Fecha fechaMatriculacion, String color,int plazas)
   {
     super(matricula,fechaMatriculacion);
-    colorCorrecto(color);
     if (colorCorrecto(color) == true)
     {
       this.color = color;
@@ -42,23 +41,22 @@ public class Automovil extends Vehiculo {
   public int getPlazas() {
     return plazas;
   }
-  public String aTexto()
-  {
-    String cadena="";
+  @Override
+  public String aTexto() {
+    String cadena; 
+    cadena = "Matricula:" + matricula + ", Fecha Matriculacion:" + fechaMatriculacion + ", color:" + color + ", Num. Plazas:" + plazas ; 
     return cadena;
   }
   
   private boolean colorCorrecto(String color)
   {
-    boolean prueba = true; 
+    boolean prueba = false; 
     if(color.equals(COLOR_AZUL)||color.equals(COLOR_BLANCO)||color.equals(COLOR_NEGRO))
     {
       prueba = true;
     }
-    else
-    {
-      prueba = false;
-    }
+    
+    
     return prueba;
   }
   

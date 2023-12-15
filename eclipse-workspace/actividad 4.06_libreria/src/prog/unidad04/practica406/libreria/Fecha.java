@@ -1,11 +1,11 @@
-package prog.unidad04.actividad406.libreria;
+package prog.unidad04.practica406.libreria;
 
-public class Fecha {
+public class Fecha implements ConvertibleATexto {
   private int dia;
   private int mes;
   private int anyo;
   
-  public Fecha(int dia,int mes,int anyo)
+  public Fecha(int dia,int mes,int anyo) 
   {
     comprobarAnyo(anyo);
     if (comprobarAnyo(anyo) == true)
@@ -49,16 +49,17 @@ public class Fecha {
   public boolean esBisiesto()
   {
     boolean prueba = false;
-    if (anyo % 4 == 0 )
+    if ((anyo % 4 == 0)&&(anyo != 1900) )
     {
       prueba = true;
     }
     return prueba;
   }
-  public String aTexto() 
-  {
-   String cadena = "" ;
-   return cadena;
+  @Override
+  public String aTexto() {
+   String cadena;
+   cadena = dia + " de" + mesEnTexto() + " de " + anyo;
+    return null;
   }
   
   public long diasTranscurridos()
@@ -69,7 +70,7 @@ public class Fecha {
     
     for ( int i = 1900 ; i < anyo ; i++)
     {
-      if (i % 4 == 0)
+      if ((i % 4 == 0)&&(i != 1900))
       {
         añosEnDias = añosEnDias + 366;
       }else
@@ -87,7 +88,7 @@ public class Fecha {
         mesesEnDias = mesesEnDias + 30 ;
       }else if (i == 2)
       {
-        if ( anyo % 4 == 0)
+        if ((anyo % 4 == 0)&&(anyo != 1900))
         {
           mesesEnDias = mesesEnDias + 29; 
         }else
@@ -96,9 +97,24 @@ public class Fecha {
         }
       }
     }
-    diasTranscurridos = dia + mesesEnDias + añosEnDias;
+    diasTranscurridos = dia -1 + mesesEnDias + añosEnDias;
     
-    return diasTranscurridos;
+    return diasTranscurridos ;
+  }
+  public long diasEntre(Fecha fecha)
+  {
+    long fecha1 = diasTranscurridos();
+    long fecha2 = fecha.diasTranscurridos();
+    long fechaTotal;
+    fechaTotal = fecha2-fecha1;
+    if ( fechaTotal > 0 ) 
+    {
+      return fechaTotal;
+    } else 
+    {
+      throw new FechaException();
+    }
+    
   }
   public int compara (Fecha fecha)
   {
@@ -159,5 +175,51 @@ public class Fecha {
         }
     }
     return prueba;
+  }
+  private String mesEnTexto ()
+  {
+    String mesTx = " ";
+    switch (mes) {
+    case 1: {
+      mesTx = "Enero";
+            }
+    case 2: {
+      mesTx = "Febrero";
+            }
+    case 3: {
+      mesTx = "Marzo";
+            }
+    case 4: {
+      mesTx = "Abril";
+            }
+    case 5: {
+      mesTx = "Mayo";
+            }
+    case 6: {
+      mesTx = "Junio";
+            }
+    case 7: {
+      mesTx = "Julio";
+            }
+    case 8 : {
+      mesTx = "Agosto";
+            }
+    case 9: {
+      mesTx = "Septiembre";
+            }
+    case 10: {
+      mesTx = "Octubre";
+            }
+    case 11: {
+      mesTx = "Noviembre";
+            }
+    case 12: {
+      mesTx = "Diciembre";
+      
+            }
+    
+    
+    }
+    return mesTx;
   }
 }

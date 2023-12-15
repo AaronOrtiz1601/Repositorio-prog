@@ -14,5 +14,9 @@
     <fullyQualifiedTypeName name="prog.unidad04.actividad403.ejercicio01.PizzaAlredyServedException"/>
     <fullyQualifiedTypeName name="prog.unidad406.libreria.Vehiculo"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="prog.unidad04.actividad406.libreria.ConvertibleATexto"/>
+    <fullyQualifiedTypeName name="prog.unidad04.actividad406.libreria.FechaException"/>
+    <fullyQualifiedTypeName name="prog.unidad04.actividad406.libreria.ConvertibleATexto.ConvertibleATexto"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
 </qualifiedTypeNameHistroy>

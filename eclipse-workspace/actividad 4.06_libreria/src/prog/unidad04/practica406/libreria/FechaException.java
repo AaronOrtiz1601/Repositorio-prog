@@ -1,4 +1,4 @@
-package prog.unidad04.actividad406.libreria;
+package prog.unidad04.practica406.libreria;
 
 public class FechaException extends RuntimeException {
 
