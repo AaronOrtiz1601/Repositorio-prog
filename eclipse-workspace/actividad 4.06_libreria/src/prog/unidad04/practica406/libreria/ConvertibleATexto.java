@@ -3,7 +3,7 @@
 package prog.unidad04.practica406.libreria;
 
 /**
- * Interfaz de clases que permiten convertir su información a formato textual
+ * Interfaz de clases que permiten convertir su informacion a formato textual
  * 
  */
 

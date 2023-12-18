@@ -1,13 +1,22 @@
 package prog.unidad04.practica406.libreria;
 
-public class Vehiculo  implements ConvertibleATexto{
+/**
+ * La clase Vehiculo representa un vehiculo generico.
+ */
+public class Vehiculo  {
   protected Fecha fechaMatriculacion;
   protected String matricula;
   protected static int vehiculosMatriculados;
-  
+  /**
+   * Constructor de la clase Vehiculo.
+   *
+   * @param matricula La matrícula del vehiculo.
+   * @param fechaMatriculacion La fecha de matriculación del vehiculo.
+   * @throws IllegalArgumentException Si la matricula o la fecha de matriculacion no son validas.
+   */
   protected Vehiculo(String matricula,Fecha fechaMatriculacion) 
   {
-    boolean prueba=false;
+    
     
     
      if(matriculaCorrecta(matricula) == true)
@@ -25,27 +34,44 @@ public class Vehiculo  implements ConvertibleATexto{
      else
      {
        this.fechaMatriculacion=fechaMatriculacion;
-       vehiculosMatriculados++;
+       
      }
     
     
     
   }
+  /**
+   * Obtiene la fecha de matriculacion del vehiculo.
+   *
+   * @return La fecha de matriculacion del vehiculo.
+   */
 
   public Fecha getFechaMatriculacion() {
     return fechaMatriculacion;
   }
+  /**
+   * Obtiene la matricula del vehiculo.
+   *
+   * @return La matricula del vehiculo.
+   */
 
   public String getMatricula() {
     return matricula;
   }
-
-  @Override
+  /**
+   * Convierte el vehiculo a su representacion en formato de texto.
+   *
+   * @return La representacion en formato de texto del vehiculo.
+   */
   public String aTexto() {
-    // TODO Auto-generated method stub
-    return null;
+   String cadena = "";
+    return cadena;
   }
-
+  /**
+   * Obtiene el número de vehiculos matriculados.
+   *
+   * @return El número de vehiculos matriculados.
+   */
   public static int getVehiculosMatriculados() {
     return vehiculosMatriculados;
   }

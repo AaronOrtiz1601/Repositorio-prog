@@ -1,10 +1,18 @@
 package prog.unidad04.practica406.libreria;
-
+/**
+ * La clase Fecha representa una fecha con dia, mes y anyo.
+ */
 public class Fecha implements ConvertibleATexto {
+  //Atributos de la clase
   private int dia;
   private int mes;
   private int anyo;
-  
+  /**
+   * constructor de la clase fecha
+   * @param dia. Muestra el dia de la fecha
+   * @param mes. Muestra el mes de la fecha
+   * @param anyo Muestra el anyo de la fecha
+   */
   public Fecha(int dia,int mes,int anyo) 
   {
     comprobarAnyo(anyo);
@@ -34,18 +42,31 @@ public class Fecha implements ConvertibleATexto {
     }
     
   }
-  
+  /**
+   * 
+   * @return Obtiene el dia de la fecha
+   */
   public int getDia() {
     return dia;
   }
-
+/**
+ * 
+ * @return Obtiene el mes de la fecha
+ */
   public int getMes() {
     return mes;
   }
-
+/**
+ * 
+ * @return Obtiene el mes de la fecha
+ */
   public int getAnyo() {
     return anyo;
   }
+  /**
+   * 
+   * @return Obtiene true o false dependiendo de si el año es bisiesto o no lo es 
+   */
   public boolean esBisiesto()
   {
     boolean prueba = false;
@@ -55,27 +76,35 @@ public class Fecha implements ConvertibleATexto {
     }
     return prueba;
   }
+  /**
+   * Combierte los datos de la fecha en una cadena
+   * @return Cadena con la informacion de la cadena
+   */
   @Override
   public String aTexto() {
    String cadena;
-   cadena = dia + " de" + mesEnTexto() + " de " + anyo;
-    return null;
+   cadena = dia + " de " + mesEnTexto() + " de " + anyo;
+    return cadena;
   }
+  /**
+   * 
+   * @return Devuelve los dias transcurridos entre la fecha creada y el año 1900
+   */
   
   public long diasTranscurridos()
   {
     long diasTranscurridos;
-    long añosEnDias = 0;
+    long anyosEnDias = 0;
     long mesesEnDias = 0;
     
     for ( int i = 1900 ; i < anyo ; i++)
     {
       if ((i % 4 == 0)&&(i != 1900))
       {
-        añosEnDias = añosEnDias + 366;
+        anyosEnDias = anyosEnDias + 366;
       }else
       {
-        añosEnDias = añosEnDias + 365;
+        anyosEnDias = anyosEnDias + 365;
       }
     }
     for (int i = 1 ; i < mes ; i++)
@@ -97,10 +126,16 @@ public class Fecha implements ConvertibleATexto {
         }
       }
     }
-    diasTranscurridos = dia -1 + mesesEnDias + añosEnDias;
+    diasTranscurridos = dia -1 + mesesEnDias + anyosEnDias;
     
     return diasTranscurridos ;
   }
+  /**
+   * 
+   * @param fecha posterior a la fecha que llama al metodo
+   * @return Devuelve la diferencia de dias de la fecha que llama al metodo y una posterior
+   * @throws FechaException. Este error salta si la fecha que llama al metodo es posterior a la otra fecha
+   */
   public long diasEntre(Fecha fecha)
   {
     long fecha1 = diasTranscurridos();
@@ -116,6 +151,11 @@ public class Fecha implements ConvertibleATexto {
     }
     
   }
+  /**
+   * 
+   * @param fecha 
+   * @return Devuelve 1 si la fecha que llama al metodo es mayor que la otra, devuelve 0 si son iguales y -1 si la fecha que llama al metodo es menor que la otra
+   */
   public int compara (Fecha fecha)
   {
     int resultadoComp = 0;
@@ -146,7 +186,7 @@ public class Fecha implements ConvertibleATexto {
   private boolean comprobarMes(int mes)
   {
     boolean prueba = false;
-    if ((mes>=1)||(mes<=12))
+    if ((mes>=1)&& (mes<=12))
     {
       prueba = true;
     }
@@ -156,11 +196,21 @@ public class Fecha implements ConvertibleATexto {
   {
     boolean prueba = false;
     if (mes != 2) {
+      if ((mes == 1) || (mes == 3)||( mes == 5 ) ||( mes == 7)||(mes == 8)||(mes == 10) || (mes == 12))
+      {
         if (dia >= 1 && dia <= 31) {
             prueba = true;
         } else {
             prueba = false;
         }
+      }else if ((mes == 4) || (mes == 6) || (mes == 9) || (mes == 11))
+      {
+        if (dia >= 1 && dia <= 30) {
+          prueba = true;
+      } else {
+          prueba = false;
+      }
+      }
     } else if (mes == 2 && (anyo % 4 == 0)) {
         if (dia >= 1 && dia <= 29) {
             prueba = true;
@@ -181,40 +231,52 @@ public class Fecha implements ConvertibleATexto {
     String mesTx = " ";
     switch (mes) {
     case 1: {
-      mesTx = "Enero";
+      mesTx = "enero";
+      break;
             }
     case 2: {
-      mesTx = "Febrero";
+      mesTx = "febrero";
+      break;
             }
     case 3: {
-      mesTx = "Marzo";
+      mesTx = "marzo";
+      break;
             }
     case 4: {
-      mesTx = "Abril";
+      mesTx = "abril";
+      break;
             }
     case 5: {
-      mesTx = "Mayo";
+      mesTx = "mayo";
+      break;
             }
     case 6: {
-      mesTx = "Junio";
+      mesTx = "junio";
+      break;
             }
     case 7: {
-      mesTx = "Julio";
+      mesTx = "julio";
+      break;
             }
     case 8 : {
-      mesTx = "Agosto";
+      mesTx = "agosto";
+      break;
             }
     case 9: {
-      mesTx = "Septiembre";
+      mesTx = "septiembre";
+      break;
             }
     case 10: {
-      mesTx = "Octubre";
+      mesTx = "octubre";
+      break;
             }
     case 11: {
-      mesTx = "Noviembre";
+      mesTx = "noviembre";
+      break;
             }
     case 12: {
-      mesTx = "Diciembre";
+      mesTx = "diciembre";
+      break;
       
             }
     

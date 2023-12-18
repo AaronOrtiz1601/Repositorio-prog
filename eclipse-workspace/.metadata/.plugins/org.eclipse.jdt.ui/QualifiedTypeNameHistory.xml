@@ -13,10 +13,17 @@
     <fullyQualifiedTypeName name="pruebasclases.OtraClase"/>
     <fullyQualifiedTypeName name="prog.unidad04.actividad403.ejercicio01.PizzaAlredyServedException"/>
     <fullyQualifiedTypeName name="prog.unidad406.libreria.Vehiculo"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="prog.unidad04.actividad406.libreria.ConvertibleATexto"/>
     <fullyQualifiedTypeName name="prog.unidad04.actividad406.libreria.FechaException"/>
     <fullyQualifiedTypeName name="prog.unidad04.actividad406.libreria.ConvertibleATexto.ConvertibleATexto"/>
-    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="prog.unidad04.practica406.libreria.ConvertibleATexto"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="prog.unidad04.practica406.libreria.Fecha"/>
+    <fullyQualifiedTypeName name="prog.unidad04.practica406.libreria.Vehiculo"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="prog.unidad04.practica406.libreria.FechaException"/>
 </qualifiedTypeNameHistroy>
