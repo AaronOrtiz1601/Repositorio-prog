@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="prog.unidad04.prueba.PruebaPizzaApp"/>
     <fullyQualifiedTypeName name="prog.unidad04.actividad402.ejercicio05.Zona"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="prog.unidad04.actividad402.ejercicio08.Minocheck"/>
     <fullyQualifiedTypeName name="pruebasclases.MiChekeadaExcepcition"/>
     <fullyQualifiedTypeName name="pruebasclases.OtraClase"/>
@@ -17,13 +16,19 @@
     <fullyQualifiedTypeName name="prog.unidad04.actividad406.libreria.FechaException"/>
     <fullyQualifiedTypeName name="prog.unidad04.actividad406.libreria.ConvertibleATexto.ConvertibleATexto"/>
     <fullyQualifiedTypeName name="prog.unidad04.practica406.libreria.ConvertibleATexto"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="prog.unidad04.practica406.libreria.Fecha"/>
     <fullyQualifiedTypeName name="prog.unidad04.practica406.libreria.Vehiculo"/>
-    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
-    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="prog.unidad04.practica406.libreria.FechaException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="double"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="prog.unidad06.arraysuni.ejercicio02.UtilidadesArrays"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="prog.unidad06.arraysuni.ejercicio04.UtilidadesArrays"/>
 </qualifiedTypeNameHistroy>
