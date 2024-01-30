@@ -3,7 +3,6 @@ package calculadora;
 import static org.junit.Assert.assertThat;
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.hamcrest.Matcher;
 import org.junit.jupiter.api.Test;
 
 class calculadoraTest {
@@ -52,11 +51,6 @@ class calculadoraTest {
   public void testComprarPorMatchet() {
     String paco = "hola";
       assertThat("hola", is(paco));
-  }
-
-  private Matcher is(String paco) {
-    // TODO Auto-generated method stub
-    return null;
   }
 
   

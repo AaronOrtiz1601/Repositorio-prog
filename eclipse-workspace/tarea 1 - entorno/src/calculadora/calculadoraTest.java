@@ -117,13 +117,7 @@ class calculadoraTest {
   public void TestDivisionConSegundoNumeroSiendo0() {
     assertThrows(ArithmeticException.class, () -> { calculadora.dividir(2, 0); });
   }
-  @Test
-  public void TestDivisionConSegundoNumeroSiend57o0() {
-    assertThrows(ArithmeticException.class, () -> { calculadora.dividirControlado(1, 0) });
-  }
-  
-  
-  
+ 
   @Test
   public void TestEsPositivo()
   {

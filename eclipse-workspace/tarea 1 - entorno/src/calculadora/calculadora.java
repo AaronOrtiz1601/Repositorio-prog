@@ -13,20 +13,7 @@ public class calculadora{
   public static int dividir ( int a,int b ) {
     return a / b;
   }
-  public static int dividirControlado ( int a, int b ) {
-    int division = 0;
-    try {
-     
-   division = a/b;
-   
-    }catch (ArithmeticException e){
-      System.out.println("No se puede dividir entre 0");
-      
-    }
-    return division;
-    
-    
-  }
+ 
   public static boolean esPositivo ( int a) {
     boolean prueba = false;
     if ( a > 0)
