@@ -1516,3 +1516,448 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2024-02-23 13:47:56,082 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Started calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store3700736997884035786
 2024-02-23 13:47:56,112 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Finished calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store3700736997884035786
 2024-02-23 14:30:17,669 [ForkJoinPool.commonPool-worker-20] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-02-23-14-30-17.tar.gz" created.
+2024-03-02 19:01:16,330 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-02 19:01:18,989 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sonarLintSpringAppConfig' of type [org.sonarsource.sonarlint.core.spring.SonarLintSpringAppConfig$$EnhancerBySpringCGLIB$$db9db12c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-02 19:01:19,302 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'provideClientEventBus' of type [com.google.common.eventbus.AsyncEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-02 19:01:22,504 [ForkJoinPool.commonPool-worker-1] INFO  jetbrains.exodus.io.FileDataWriter - Uninterruptible file channel will be used
+2024-03-02 19:01:22,505 [ForkJoinPool.commonPool-worker-1] WARN  jetbrains.exodus.io.FileDataWriter - Can't open directory channel. Log directory fsync won't be performed.
+2024-03-02 19:01:23,646 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store12899585515336525836
+2024-03-02 19:01:23,673 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.gc.GarbageCollector - Queueing ComputeUtilizationFromScratchJob
+2024-03-02 19:01:32,476 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Started calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store12899585515336525836
+2024-03-02 19:01:32,538 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Finished calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store12899585515336525836
+2024-03-02 19:04:17,800 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:04:17,824 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:04:17,840 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:04:17,841 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:05:28,200 [Worker-8: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:05:28,209 [Worker-8: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:05:28,216 [Worker-8: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:05:28,218 [Worker-8: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:08:03,815 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:08:03,817 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:08:03,825 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:08:03,826 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:09:16,012 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:09:16,013 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:09:16,017 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:09:16,018 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:12:25,448 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:12:25,449 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:12:25,454 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:12:25,455 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:13:01,258 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:13:01,260 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:13:01,263 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:13:01,264 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:15:13,489 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:15:13,490 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:15:13,493 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:15:13,494 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:15:42,708 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:15:42,709 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:15:42,715 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:15:42,716 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:18:00,677 [Worker-0: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:18:00,678 [Worker-0: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:18:00,683 [Worker-0: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:18:00,683 [Worker-0: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:20:17,756 [Worker-9: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:20:17,757 [Worker-9: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:20:17,761 [Worker-9: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:20:17,762 [Worker-9: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:28:05,482 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:28:05,483 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:28:05,487 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:28:05,489 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:28:54,062 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:28:54,064 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:28:54,070 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:28:54,073 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:30:10,730 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:30:10,732 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:30:10,735 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:30:10,736 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:30:39,087 [Worker-40: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:30:39,088 [Worker-40: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:30:39,092 [Worker-40: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:30:39,093 [Worker-40: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:33:21,914 [Worker-36: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:33:21,915 [Worker-36: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:33:21,918 [Worker-36: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:33:21,918 [Worker-36: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:37:34,887 [Worker-37: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:37:34,888 [Worker-37: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:37:34,896 [Worker-37: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:37:34,897 [Worker-37: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:39:46,710 [Worker-42: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:39:46,711 [Worker-42: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:39:46,713 [Worker-42: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:39:46,713 [Worker-42: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:40:18,421 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:40:18,422 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:40:18,425 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:40:18,426 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:40:49,343 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:40:49,344 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:40:49,348 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:40:49,348 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:42:18,672 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:42:18,673 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:42:18,675 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:42:18,676 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:43:13,483 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:43:13,484 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:43:13,486 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:43:13,487 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:45:14,864 [Worker-42: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:45:14,865 [Worker-42: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:45:14,869 [Worker-42: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:45:14,870 [Worker-42: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:45:50,425 [Worker-30: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:45:50,427 [Worker-30: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:45:50,430 [Worker-30: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:45:50,431 [Worker-30: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:51:03,955 [Worker-40: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:51:03,956 [Worker-40: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:51:03,959 [Worker-40: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:51:03,959 [Worker-40: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:51:57,051 [Worker-46: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:51:57,053 [Worker-46: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:51:57,057 [Worker-46: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:51:57,058 [Worker-46: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:55:04,011 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:55:04,012 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:55:04,016 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:55:04,016 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:59:18,904 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:59:18,904 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 19:59:18,907 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 19:59:18,907 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:00:45,653 [Worker-30: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:00:45,654 [Worker-30: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:00:45,658 [Worker-30: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:00:45,658 [Worker-30: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:01:36,729 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:01:36,729 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:01:36,729 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:01:36,729 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:02:49,721 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:02:49,722 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:02:49,724 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:02:49,725 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:06:20,303 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:06:20,303 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:06:20,305 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:06:20,305 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:09:00,904 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:09:00,905 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:09:00,909 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-02 20:09:00,910 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-02 20:09:50,520 [ForkJoinPool.commonPool-worker-41] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-03-02-20-09-50.tar.gz" created.
+2024-03-04 08:31:17,166 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-04 08:31:18,211 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-03-04 08:31:19,212 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sonarLintSpringAppConfig' of type [org.sonarsource.sonarlint.core.spring.SonarLintSpringAppConfig$$EnhancerBySpringCGLIB$$73f15690] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-04 08:31:19,430 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'provideClientEventBus' of type [com.google.common.eventbus.AsyncEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-04 08:31:22,050 [ForkJoinPool.commonPool-worker-1] INFO  jetbrains.exodus.io.FileDataWriter - Uninterruptible file channel will be used
+2024-03-04 08:31:22,051 [ForkJoinPool.commonPool-worker-1] WARN  jetbrains.exodus.io.FileDataWriter - Can't open directory channel. Log directory fsync won't be performed.
+2024-03-04 08:31:23,075 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store15872721937472606627
+2024-03-04 08:31:23,090 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.gc.GarbageCollector - Queueing ComputeUtilizationFromScratchJob
+2024-03-04 08:31:32,027 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Started calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store15872721937472606627
+2024-03-04 08:31:32,093 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Finished calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store15872721937472606627
+2024-03-04 08:55:26,201 [Worker-26: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 08:55:26,218 [Worker-26: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 08:55:26,230 [Worker-26: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 08:55:26,231 [Worker-26: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 08:57:17,948 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 08:57:17,960 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 08:57:17,968 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 08:57:17,970 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:11:53,103 [Worker-34: Launching registro] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:11:53,105 [Worker-34: Launching registro] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:11:53,110 [Worker-34: Launching registro] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:11:53,111 [Worker-34: Launching registro] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:23:41,479 [Worker-36: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:23:41,479 [Worker-36: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:23:41,482 [Worker-36: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:23:41,483 [Worker-36: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:25:54,224 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:25:54,225 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:25:54,227 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:25:54,228 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:27:00,178 [Worker-43: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:27:00,178 [Worker-43: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:27:00,181 [Worker-43: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:27:00,182 [Worker-43: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:30:27,107 [Worker-49: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:30:27,108 [Worker-49: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:30:27,111 [Worker-49: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:30:27,111 [Worker-49: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:30:45,906 [Worker-44: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:30:45,907 [Worker-44: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:30:45,912 [Worker-44: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:30:45,912 [Worker-44: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:32:07,979 [Worker-46: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:32:07,980 [Worker-46: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:32:07,983 [Worker-46: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:32:07,983 [Worker-46: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:32:47,871 [Worker-49: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:32:47,872 [Worker-49: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:32:47,874 [Worker-49: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:32:47,874 [Worker-49: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:42:50,196 [Worker-48: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:42:50,197 [Worker-48: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 09:42:50,200 [Worker-48: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 09:42:50,201 [Worker-48: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 11:14:00,684 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 11:14:00,685 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 11:14:00,688 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 11:14:00,688 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 11:14:00,850 [ForkJoinPool.commonPool-worker-51] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-03-04-11-14-00.tar.gz" created.
+2024-03-04 23:43:13,478 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-04 23:43:15,762 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sonarLintSpringAppConfig' of type [org.sonarsource.sonarlint.core.spring.SonarLintSpringAppConfig$$EnhancerBySpringCGLIB$$dfa26aee] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-04 23:43:15,932 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'provideClientEventBus' of type [com.google.common.eventbus.AsyncEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-04 23:43:18,797 [ForkJoinPool.commonPool-worker-1] INFO  jetbrains.exodus.io.FileDataWriter - Uninterruptible file channel will be used
+2024-03-04 23:43:18,799 [ForkJoinPool.commonPool-worker-1] WARN  jetbrains.exodus.io.FileDataWriter - Can't open directory channel. Log directory fsync won't be performed.
+2024-03-04 23:43:19,824 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store15116262330378711410
+2024-03-04 23:43:19,855 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.gc.GarbageCollector - Queueing ComputeUtilizationFromScratchJob
+2024-03-04 23:43:28,771 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Started calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store15116262330378711410
+2024-03-04 23:43:28,825 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Finished calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store15116262330378711410
+2024-03-04 23:45:57,275 [Worker-2: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 23:45:57,294 [Worker-2: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 23:45:57,306 [Worker-2: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 23:45:57,308 [Worker-2: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 23:46:53,499 [Worker-20: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 23:46:53,516 [Worker-20: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 23:46:53,525 [Worker-20: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 23:46:53,527 [Worker-20: Launching practica3Selemium] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 23:54:13,215 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 23:54:13,216 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 23:54:13,220 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-04 23:54:13,221 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-04 23:54:16,027 [ForkJoinPool.commonPool-worker-4] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-03-04-23-54-16.tar.gz" created.
+2024-03-05 12:29:27,550 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-05 12:29:28,746 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sonarLintSpringAppConfig' of type [org.sonarsource.sonarlint.core.spring.SonarLintSpringAppConfig$$EnhancerBySpringCGLIB$$e59408b4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-05 12:29:28,850 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'provideClientEventBus' of type [com.google.common.eventbus.AsyncEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-05 12:29:30,275 [ForkJoinPool.commonPool-worker-1] INFO  jetbrains.exodus.io.FileDataWriter - Uninterruptible file channel will be used
+2024-03-05 12:29:30,276 [ForkJoinPool.commonPool-worker-1] WARN  jetbrains.exodus.io.FileDataWriter - Can't open directory channel. Log directory fsync won't be performed.
+2024-03-05 12:29:30,686 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store3285080918768489194
+2024-03-05 12:29:30,696 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.gc.GarbageCollector - Queueing ComputeUtilizationFromScratchJob
+2024-03-05 12:29:40,274 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Started calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store3285080918768489194
+2024-03-05 12:29:40,302 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Finished calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store3285080918768489194
+2024-03-05 20:13:06,465 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-05 20:13:08,802 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sonarLintSpringAppConfig' of type [org.sonarsource.sonarlint.core.spring.SonarLintSpringAppConfig$$EnhancerBySpringCGLIB$$2b0b9aac] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-05 20:13:09,033 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'provideClientEventBus' of type [com.google.common.eventbus.AsyncEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-05 20:13:12,464 [ForkJoinPool.commonPool-worker-1] INFO  jetbrains.exodus.io.FileDataWriter - Uninterruptible file channel will be used
+2024-03-05 20:13:12,464 [ForkJoinPool.commonPool-worker-1] WARN  jetbrains.exodus.io.FileDataWriter - Can't open directory channel. Log directory fsync won't be performed.
+2024-03-05 20:13:13,626 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store6173634120611981797
+2024-03-05 20:13:13,648 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.gc.GarbageCollector - Queueing ComputeUtilizationFromScratchJob
+2024-03-05 20:13:22,440 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Started calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store6173634120611981797
+2024-03-05 20:13:22,483 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Finished calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store6173634120611981797
+2024-03-05 20:24:51,927 [Worker-19: Creating project "aaarepaso.com"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: aaarepaso.com:aaarepaso.com:0.0.1-SNAPSHOT @ C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaarepaso.com\pom.xml.
+2024-03-05 20:24:53,702 [Worker-19: Creating project "aaarepaso.com"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aaarepaso.com/src/main/java
+2024-03-05 20:24:53,705 [Worker-19: Creating project "aaarepaso.com"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aaarepaso.com/src/main/resources
+2024-03-05 20:24:53,706 [Worker-19: Creating project "aaarepaso.com"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aaarepaso.com/src/test/java
+2024-03-05 20:24:53,707 [Worker-19: Creating project "aaarepaso.com"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aaarepaso.com/src/test/resources
+2024-03-05 20:24:55,201 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-05 20:24:55,211 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-05 20:24:55,219 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-05 20:24:55,222 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-03-05 20:26:23,018 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aaron:aaron.com:0.0.1-SNAPSHOT @ C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaarepaso.com\pom.xml.
+2024-03-05 20:26:26,364 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:26:26,369 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:26:26,374 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:26:26,376 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:26:26,982 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-05 20:26:27,382 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aaron:aaron.com:0.0.1-SNAPSHOT @ C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaarepaso.com\pom.xml.
+2024-03-05 20:26:27,811 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aaarepaso.com/src/main/java
+2024-03-05 20:26:27,811 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aaarepaso.com/src/main/resources
+2024-03-05 20:26:27,840 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aaarepaso.com/src/test/java
+2024-03-05 20:26:27,841 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /aaarepaso.com/src/test/resources
+2024-03-05 20:26:28,110 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-03-05 20:26:28,278 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:26:28,279 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:26:28,284 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:26:28,284 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:27:29,818 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:27:29,823 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:27:29,827 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:27:29,828 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:30:06,641 [Worker-25: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:30:06,642 [Worker-25: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:30:06,646 [Worker-25: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:30:06,647 [Worker-25: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:30:45,940 [Worker-34: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:30:45,941 [Worker-34: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:30:45,946 [Worker-34: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:30:45,947 [Worker-34: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:32:54,940 [Worker-37: Launching wikipediatest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:32:54,940 [Worker-37: Launching wikipediatest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:32:54,944 [Worker-37: Launching wikipediatest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:32:54,945 [Worker-37: Launching wikipediatest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:33:42,678 [Worker-39: Launching wikipediatest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:33:42,679 [Worker-39: Launching wikipediatest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:33:42,683 [Worker-39: Launching wikipediatest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:33:42,683 [Worker-39: Launching wikipediatest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:34:08,556 [Worker-34: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:34:08,557 [Worker-34: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:34:08,560 [Worker-34: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:34:08,560 [Worker-34: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:39:26,588 [Worker-2: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:39:26,589 [Worker-2: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:39:26,594 [Worker-2: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:39:26,595 [Worker-2: Launching wikipedia] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:40:45,083 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:40:45,083 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:40:45,089 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:40:45,091 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:41:56,742 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:41:56,744 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:41:56,749 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:41:56,750 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:47:15,867 [Worker-38: Launching registroAutomatico] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:47:15,868 [Worker-38: Launching registroAutomatico] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:47:15,871 [Worker-38: Launching registroAutomatico] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:47:15,871 [Worker-38: Launching registroAutomatico] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:47:52,369 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:47:52,370 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:47:52,373 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:47:52,374 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:52:54,873 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:52:54,876 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:52:54,882 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:52:54,884 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:54:14,414 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:54:14,416 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 20:54:14,420 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 20:54:14,420 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:01:38,951 [Worker-36: Launching pabloPicassoFoto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:01:38,952 [Worker-36: Launching pabloPicassoFoto] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:01:38,955 [Worker-36: Launching pabloPicassoFoto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:01:38,956 [Worker-36: Launching pabloPicassoFoto] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:02:24,127 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:02:24,128 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:02:24,132 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:02:24,133 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:07:43,272 [Worker-34: Launching pabloPicassoInsti] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:07:43,273 [Worker-34: Launching pabloPicassoInsti] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:07:43,275 [Worker-34: Launching pabloPicassoInsti] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:07:43,276 [Worker-34: Launching pabloPicassoInsti] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:08:38,286 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:08:38,287 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:08:38,290 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:08:38,290 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:13:11,470 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:13:11,472 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:13:11,475 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:13:11,476 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:13:54,839 [Worker-40: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:13:54,840 [Worker-40: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:13:54,842 [Worker-40: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:13:54,843 [Worker-40: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:14:27,383 [Worker-39: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:14:27,384 [Worker-39: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:14:27,387 [Worker-39: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:14:27,387 [Worker-39: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:15:15,514 [Worker-36: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:15:15,514 [Worker-36: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:15:15,518 [Worker-36: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:15:15,519 [Worker-36: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:15:54,317 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:15:54,319 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:15:54,321 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:15:54,322 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:16:11,398 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:16:11,399 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:16:11,402 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:16:11,402 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:17:58,867 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:17:58,868 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:17:58,871 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:17:58,872 [Worker-41: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:32:31,987 [Worker-2: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:32:31,987 [Worker-2: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:32:31,991 [Worker-2: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:32:31,992 [Worker-2: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:32:56,411 [Worker-47: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:32:56,412 [Worker-47: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:32:56,417 [Worker-47: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:32:56,418 [Worker-47: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:33:27,078 [Worker-45: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:33:27,079 [Worker-45: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:33:27,082 [Worker-45: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:33:27,083 [Worker-45: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:35:56,517 [Worker-2: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:35:56,519 [Worker-2: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:35:56,522 [Worker-2: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:35:56,522 [Worker-2: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:36:39,672 [Worker-44: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:36:39,674 [Worker-44: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:36:39,677 [Worker-44: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:36:39,679 [Worker-44: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:37:09,959 [Worker-47: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:37:09,960 [Worker-47: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:37:09,962 [Worker-47: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:37:09,963 [Worker-47: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:38:21,561 [Worker-46: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:38:21,562 [Worker-46: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:38:21,564 [Worker-46: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:38:21,565 [Worker-46: Launching pruebasCalculadora] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:38:33,387 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:38:33,387 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:38:33,390 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:38:33,391 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:42:17,492 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:42:17,493 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:42:17,494 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:42:17,496 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:45:16,683 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:45:16,684 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:45:16,686 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:45:16,687 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:46:21,498 [Worker-36: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:46:21,498 [Worker-36: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:46:21,501 [Worker-36: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:46:21,501 [Worker-36: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:56:13,452 [Worker-51: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:56:13,453 [Worker-51: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:56:13,454 [Worker-51: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:56:13,454 [Worker-51: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:56:43,032 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:56:43,033 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:56:43,034 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:56:43,036 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:57:06,921 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:57:06,921 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:57:06,923 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:57:06,923 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:58:01,439 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:58:01,439 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:58:01,441 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:58:01,441 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:58:15,269 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:58:15,269 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:58:15,271 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:58:15,272 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:58:34,805 [Worker-50: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:58:34,806 [Worker-50: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:58:34,807 [Worker-50: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:58:34,807 [Worker-50: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:58:54,390 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:58:54,391 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 21:58:54,392 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 21:58:54,394 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 22:08:15,959 [Worker-52: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 22:08:15,960 [Worker-52: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-05 22:08:15,963 [Worker-52: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-05 22:08:15,963 [Worker-52: Launching ebay] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-06 01:16:01,072 [ForkJoinPool.commonPool-worker-44] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-03-06-01-16-01.tar.gz" created.
+2024-03-06 08:21:52,439 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-06 08:21:53,755 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sonarLintSpringAppConfig' of type [org.sonarsource.sonarlint.core.spring.SonarLintSpringAppConfig$$EnhancerBySpringCGLIB$$3fd5d4b1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-06 08:21:53,843 [ForkJoinPool.commonPool-worker-1] INFO  o.s.s.s.o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'provideClientEventBus' of type [com.google.common.eventbus.AsyncEventBus] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2024-03-06 08:21:54,973 [ForkJoinPool.commonPool-worker-1] INFO  jetbrains.exodus.io.FileDataWriter - Uninterruptible file channel will be used
+2024-03-06 08:21:54,974 [ForkJoinPool.commonPool-worker-1] WARN  jetbrains.exodus.io.FileDataWriter - Can't open directory channel. Log directory fsync won't be performed.
+2024-03-06 08:21:55,529 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store14625164068821149153
+2024-03-06 08:21:55,539 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.gc.GarbageCollector - Queueing ComputeUtilizationFromScratchJob
+2024-03-06 08:22:04,961 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Started calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store14625164068821149153
+2024-03-06 08:22:04,995 [Exodus shared background cleaner] INFO  j.exodus.gc.GarbageCollector - Finished calculation of log utilization from scratch at C:\Users\Aarón\.sonarlint\xodus-local-only-issue-store14625164068821149153
+2024-03-06 08:22:20,651 [ForkJoinPool.commonPool-worker-1] INFO  j.exodus.util.CompressBackupUtil - Backup file "local_only_issue_backup2024-03-06-08-22-20.tar.gz" created.
