@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="pk_SuperBuscaMinas.BotonMina.Estado"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
-    <fullyQualifiedTypeName name="prog.unidad06.mapas.ejercicio01.DiccionarioSpanishEnglish"/>
-    <fullyQualifiedTypeName name="java.util.EmptyStackException"/>
-    <fullyQualifiedTypeName name="prog.unidad06.genericos.ejercicio03.ArrayUtils"/>
-    <fullyQualifiedTypeName name="javax.swing.text.Document"/>
-    <fullyQualifiedTypeName name="prog.unidad06.xml.ejercicio01.DiccionarioSpanishEnglishFromFile"/>
-    <fullyQualifiedTypeName name="prog.unidad06.xml.ejercicio02.TraductorSpanishEnglishFromFile"/>
-    <fullyQualifiedTypeName name="prog.unidad06.xml.ejercicio01.DiccionarioSpanishEnglishException"/>
-    <fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
-    <fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
-    <fullyQualifiedTypeName name="prog.ud06.actividad611.coleccion.diccionario.DiccionarioException"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="prog.ud06.actividad611.coleccion.Cliente.Cliente"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
     <fullyQualifiedTypeName name="pk_SuperBuscaMinas.Coordenadas"/>
@@ -36,13 +23,8 @@
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="prog.ud06.actividad611.coleccion.TarjetaClaves"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
-    <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
@@ -51,13 +33,31 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.By.ByXPath"/>
     <fullyQualifiedTypeName name="javax.naming.ldap.SortResponseControl"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.By.ByTagName"/>
     <fullyQualifiedTypeName name="java.awt.Window"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.CsvSource"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Tag"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.condition.EnabledOnOs"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.condition.OS"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.CsvFileSource"/>
+    <fullyQualifiedTypeName name="org.junit.platform.suite.api.IncludeTags"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="javax.swing.DefaultListModel"/>
+    <fullyQualifiedTypeName name="javax.swing.DefaultComboBoxModel"/>
+    <fullyQualifiedTypeName name="prog.unidad05.ficheros.ejercicio05.CreceDiscos"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.nio.file.Path"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
 </qualifiedTypeNameHistroy>
