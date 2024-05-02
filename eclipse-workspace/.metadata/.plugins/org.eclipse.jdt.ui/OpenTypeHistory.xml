@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=Excepciones chekeadas/C:\/Users\/Aarón\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1693471790000"/>
+    <typeInfo handle="=Bloque 07 - Utilización avanzada de herencias/src&lt;prog.unidad07.relacion01.ejercicio02{empleadosFijos.java[empleadosFijos" modifiers="1" timestamp="1712213945849"/>
+    <typeInfo handle="=Bloque 07 - Utilización avanzada de herencias/src&lt;prog.unidad07.relacion01.ejercicio02{Empleado.java[Empleado" modifiers="1025" timestamp="1712213543716"/>
+    <typeInfo handle="=Bloque 07 - Utilización avanzada de herencias/src&lt;prog.unidad07.relacion01.ejercicio03{CuentaInteres.java[CuentaInteres" modifiers="1" timestamp="1712304693097"/>
+    <typeInfo handle="=Bloque 07 - Expresiones Matematicas/src&lt;prog.unidad07.expresiones{OperacionUnaria.java[OperacionUnaria" modifiers="1025" timestamp="1713336874403"/>
+    <typeInfo handle="=Bloque 07 - Expresiones Matematicas/src&lt;prog.unidad07.expresiones{Expresiones.java[Expresiones" modifiers="1025" timestamp="1713336423103"/>
     <typeInfo handle="=Excepciones chekeadas/C:\/Users\/Aarón\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1693471790000"/>
+    <typeInfo handle="=Excepciones chekeadas/C:\/Users\/Aarón\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1693471790000"/>
+    <typeInfo handle="=Bloque 07 - Expresiones Matematicas/src&lt;prog.unidad07.expresiones{OperacionesBinarias.java[OperacionesBinarias" modifiers="1025" timestamp="1713338319930"/>
+    <typeInfo handle="=Actividad 7.04 – Prueba Práctica Bloque 7/src&lt;prog.unidad07.juego{Personaje.java[Personaje" modifiers="1025" timestamp="1713876160385"/>
+    <typeInfo handle="=Actividad 7.04 – Prueba Práctica Bloque 7/src&lt;prog.unidad07.juego{Curanderos.java[Curanderos" modifiers="1025" timestamp="1713871401856"/>
 </typeInfoHistroy>
