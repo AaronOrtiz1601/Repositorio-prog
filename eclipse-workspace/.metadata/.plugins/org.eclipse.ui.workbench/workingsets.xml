@@ -4,8 +4,37 @@
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1695290873874_1" label="Java Test Sources" name="Java Test Sources"/>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1714026338975_3" label="Entorno" name="Entorno">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Practica de refactorización" type="4"/>
+<item elementID="=refactorización 2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ExUD3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aaron.practica.selenium" type="4"/>
 </workingSet>
-<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1714115492357_4" label="NTT" name="NTT"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1714115492357_4" label="NTT" name="NTT">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/apachemvn-t1-aos" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java-t1-aos" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java-t2-aos" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1714646734293_5" label="Tema 8 prog" name="Tema 8 prog">
+<item elementID="=Actividad 8.02" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad 8.01" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Examen tema 8" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=prueba" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726563457889_6" label="Entorno 2" name="Entorno 2">
+<item elementID="=Evalucion inicial" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726739937732_7" label="Nacho" name="Nacho">
+<item elementID="=Tarea 1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Tarea 2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1727078583836_8" label="microservicios" name="microservicios">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ejercicio01psp" type="4"/>
+<item elementID="=Actividad MS" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ejercicios01pspb" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1695290874752_2" label="Window Working Set" name="Aggregate for window 1695290874751"/>
-<mruList name="Entorno"/>
+<mruList name="microservicios"/>
+<mruList name="Nacho"/>
+<mruList name="Entorno 2"/>
+<mruList name="Tema 8 prog"/>
+<mruList name="NTT"/>
 </workingSetManager>

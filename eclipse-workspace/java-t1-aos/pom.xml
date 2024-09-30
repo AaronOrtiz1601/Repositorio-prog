@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<!-- Información del proyecto -->
+	<groupId>com.nttfpdual</groupId>
+	<artifactId>java-t1-aos</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<name>java-t1-aos</name>
+	<url>http://www.example.com</url>
+	<!-- Propiedades del proyecto -->
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>21</maven.compiler.source>
+		<maven.compiler.target>21</maven.compiler.target>
+	</properties>
+	<!-- Información sobre el desarrollador que ha realizado el proyecto -->
+	<developers>
+		<developer>
+			<id>aos</id>
+			<name>Aarón</name>
+			<email>aaron.ortizsanchez.st@emeal.nttdata.com</email>
+			<organization>NTT DATA</organization>
+			<organizationUrl>https://es.nttdata.com/</organizationUrl>
+			<roles>
+				<role>Alumno</role>
+			</roles>
+		</developer>
+	</developers>
+	<!-- Configuración de dependencias -->
+	<dependencies>
+		<!-- Dependencias de las libreria neccesaria para utulizar la base de datos -->
+		<!-- https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc -->
+	<dependency>
+    	<groupId>org.xerial</groupId>
+    	<artifactId>sqlite-jdbc</artifactId>
+    	<version>3.41.0.0</version>
+	</dependency>
+
+	</dependencies>
+	<!-- Encargado de poder generar la documentacion -->
+	<reporting>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>3.6.3</version>
+				<configuration>
+					<source>21</source>
+					<maxmemory>512m</maxmemory>
+				</configuration>
+			</plugin>
+		</plugins>
+	</reporting>
+
+	<build>
+		<!-- Configuración de plugins -->
+		<plugins>
+			<!-- Plugins para poder usar javadoc -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>3.6.3</version>
+				<configuration>
+					<source>21</source>
+					<maxmemory>512m</maxmemory>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>

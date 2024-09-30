@@ -12,6 +12,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicio01psp"/>
+			<item value="C:\Users\Aarón\Downloads\ExUD3 (4)\ExUD3\ExUD3"/>
 			<item value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad_6.11"/>
 			<item value="C:\Users\Aarón\Downloads\Práctica JUNIT superbuscaminas"/>
 		</list>

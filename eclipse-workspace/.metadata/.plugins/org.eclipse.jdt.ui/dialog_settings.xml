@@ -15,8 +15,12 @@
 	<item key="org.eclipse.jdt.uiformatter_pagemodify_dialog.sash_form_rigth_width" value="780"/>
 	<item key="org.eclipse.jdt.uiformatter_page.preference_tree_expansion" value="10.0..0.0.000.0.0.0.0.0.0.0.0.0.0..00.0.0.0.0.0.0.0.0.0.0..00.0.0.0.0.0.0..00.0.0.0..00.0.0.0...00.0.0..000.0..0.0..000.0.0.0.0.0.0.0.0.0.0.0...00.0..0.."/>
 	<item key="org.eclipse.jdt.uiformatter_page.preference_scroll_position" value="0"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\Aarón\Desktop"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\Aarón\Downloads\Actividad 8.01 - Poblaciones-20240502"/>
 	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\Users\Aarón\Desktop\examen de eclipse"/>
+	<list key="workingset_selection_history">
+		<item value="Nacho"/>
+		<item value="Entorno"/>
+	</list>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -337,6 +341,12 @@
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>
+		<item key="LimitElements" value="false"/>
+		<item key="IgnoreDefault" value="true"/>
+		<item key="StringStyle" value="0"/>
+		<item key="LimitValue" value="10"/>
+		<item key="SkipNull" value="false"/>
+		<item key="ToStringTemplateSelected" value="0"/>
 	</section>
 	<section name="AddGetterSetterDialog">
 		<item key="SortOrdering" value="false"/>
@@ -344,9 +354,9 @@
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
 		<item key="DIALOG_X_ORIGIN" value="39"/>
-		<item key="DIALOG_Y_ORIGIN" value="115"/>
+		<item key="DIALOG_Y_ORIGIN" value="123"/>
 		<item key="DIALOG_WIDTH" value="678"/>
-		<item key="DIALOG_HEIGHT" value="869"/>
+		<item key="DIALOG_HEIGHT" value="861"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="JarPackageWizard">
@@ -392,8 +402,8 @@
 		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
 	</section>
 	<section name="DialogBounds_SuperInterfaceSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="116"/>
-		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_X_ORIGIN" value="40"/>
+		<item key="DIALOG_Y_ORIGIN" value="224"/>
 		<item key="DIALOG_WIDTH" value="478"/>
 		<item key="DIALOG_HEIGHT" value="681"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
@@ -413,6 +423,38 @@
 		<item key="DIALOG_Y_ORIGIN" value="88"/>
 		<item key="DIALOG_WIDTH" value="799"/>
 		<item key="DIALOG_HEIGHT" value="417"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="SourceActionDialog.constructors">
+		<item key="VisibilityModifier" value="1"/>
+		<item key="FinalModifier" value="false"/>
+		<item key="SynchronizedModifier" value="false"/>
+		<item key="Comments" value="false"/>
+	</section>
+	<section name="AddUnimplementedConstructorsDialog">
+		<item key="OmitCallToSuper" value="false"/>
+	</section>
+	<section name="DialogBounds_AddUnimplementedConstructorsDialog">
+		<item key="DIALOG_X_ORIGIN" value="149"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="678"/>
+		<item key="DIALOG_HEIGHT" value="806"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="SelfEncapsulateFieldWizard">
+		<item key="GenerateJavadoc" value="false"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH" value="550"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT" value="400"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+	</section>
+	<section name="DialogBounds_GenerateToStringDialog">
+		<item key="DIALOG_X_ORIGIN" value="630"/>
+		<item key="DIALOG_Y_ORIGIN" value="9"/>
+		<item key="DIALOG_WIDTH" value="678"/>
+		<item key="DIALOG_HEIGHT" value="877"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>

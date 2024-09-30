@@ -1,0 +1,6 @@
+
+Metodo = ordenar_Archivo_Binario, fichero entrada= Libro1.dat,fichero salida= Libro1_ord.dat,Fecha de ejecucion= 2024-09-26
+Metodo = fichero_CSV_To_Binario, fichero entrada= Libro1.csv,fichero salida= Libro1.dat,Fecha de ejecucion= 2024-09-26
+Metodo = fichero_Binario_To_Csv, fichero entrada= Libro1.dat,fichero salida= Libro1.csv,Fecha de ejecucion= 2024-09-26
+Metodo = fichero_Binario_To_Csv, fichero entrada= Libro1.csv,fichero salida= Libro1_ord.csv,Fecha de ejecucion= 2024-09-26
+Metodo = ordenar_Archivo_Binario, fichero entrada= Libro1.dat,fichero salida= Libro1_ord.dat,Fecha de ejecucion= 2024-09-26

@@ -2,6 +2,8 @@
 <libraryInfos>
     <libraryInfo home="C:\Users\Aarón\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\jre" version="17.0.8.1"/>
     <libraryInfo home="C:\Users\Aarón\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047" version="17.0.8.1"/>
+    <libraryInfo home="C:\Dev\Core\Java\Oracle\Versión\jdk-21" version="21"/>
+    <libraryInfo home="C:\Dev\Core\Java\Oracle\Versión\jdk-17.0.10\bin" version="17.0.10"/>
     <libraryInfo home="C:\Program Files\BellSoft\LibericaJDK-8-Full" version="1.8.0_362">
         <bootpath>
             <entry path="C:\Program Files\BellSoft\LibericaJDK-8-Full\jre\lib\resources.jar"/>
@@ -21,4 +23,5 @@
             <entry path="C:\Program Files\BellSoft\LibericaJDK-8-Full\jre\lib\endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="C:\Dev\Core\Java\Oracle\Versión\jdk-21\bin" version="21"/>
 </libraryInfos>

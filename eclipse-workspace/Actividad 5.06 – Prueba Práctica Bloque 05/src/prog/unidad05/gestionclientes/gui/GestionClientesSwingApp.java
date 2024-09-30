@@ -100,7 +100,7 @@ public class GestionClientesSwingApp {
     frmGestinDeClientes.setForeground(new Color(0, 0, 0));
     frmGestinDeClientes.setFont(new Font("Dialog", Font.BOLD, 12));
     frmGestinDeClientes.setTitle("Gestión de Clientes");
-    frmGestinDeClientes.setBounds(100, 100, 517, 374);
+    frmGestinDeClientes.setBounds(100, 100, 697, 468);
     frmGestinDeClientes.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     JScrollPane scrollPane = new JScrollPane();

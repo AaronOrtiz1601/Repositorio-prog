@@ -39,7 +39,7 @@ class practica3Selemium {
      WebElement tercero = elementosList.get(2);
      //Pulsamos en el tercer elemento por medio de la etiqueta imagen 
      tercero.findElement(By.tagName("img")).click();
-    
+     
     
      
      

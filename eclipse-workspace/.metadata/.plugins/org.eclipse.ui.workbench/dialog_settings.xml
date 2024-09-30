@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="Entorno"/>
+	</list>
 	<section name="NewWizardAction">
-		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.wb.swing.ApplicationWindow"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.jdt.ui.java"/>
-			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
+			<item value="org.eclipse.wb"/>
+			<item value="org.eclipse.wb/org.eclipse.wb.swing"/>
+			<item value="org.eclipse.wb/org.eclipse.wb.rcp"/>
+			<item value="org.eclipse.wb/org.eclipse.wb.rcp/org.eclipse.wb.rcp.swt"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">
 		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jdt.internal.ui.jarpackager.JarPackageWizard"/>
-		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.e4.ui.importer.wizard"/>
 		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
 			<item value="org.eclipse.jdt.ui.Java"/>
 		</list>
@@ -23,6 +28,8 @@
 		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
 		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
 		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\Aarón\Downloads\Examen tema 8 (2)"/>
+			<item value="C:\Users\Aarón\Downloads\Examen tema 8 (2)\Examen tema 8.2"/>
 			<item value="C:\Users\Aarón\Desktop\main"/>
 		</list>
 	</section>

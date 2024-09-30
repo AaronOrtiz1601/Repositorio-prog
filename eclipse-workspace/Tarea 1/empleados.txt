@@ -1,0 +1,12 @@
+ Empresa=tonto
+ edad=30
+ numero de empleados=60
+ Empresa=hola
+ edad=80
+ numero de empleados=90
+ Empresa=hola
+ edad=14
+ numero de empleados=3
+ Empresa=hola
+ edad=12
+ numero de empleados=2
