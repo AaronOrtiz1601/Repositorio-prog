@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
-	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-17"/>
+	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="1"/>
+	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-21"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo.comments" value="false"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
 	<item key="org.eclipse.jdt.ui.codeformatter.create_profile_dialog.open_edit" value="true"/>
@@ -15,18 +15,23 @@
 	<item key="org.eclipse.jdt.uiformatter_pagemodify_dialog.sash_form_rigth_width" value="780"/>
 	<item key="org.eclipse.jdt.uiformatter_page.preference_tree_expansion" value="10.0..0.0.000.0.0.0.0.0.0.0.0.0.0..00.0.0.0.0.0.0.0.0.0.0..00.0.0.0.0.0.0..00.0.0.0..00.0.0.0...00.0.0..000.0..0.0..000.0.0.0.0.0.0.0.0.0.0.0...00.0..0.."/>
 	<item key="org.eclipse.jdt.uiformatter_page.preference_scroll_position" value="0"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\Aarón\Downloads\Actividad 8.01 - Poblaciones-20240502"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\Aarón\Downloads\jcalendar-1.4\lib"/>
 	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\Users\Aarón\Desktop\examen de eclipse"/>
+	<item key="ProjectSelectionDialog.show_all" value="true"/>
+	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="jdk-21"/>
 	<list key="workingset_selection_history">
+		<item value="Entorno 2"/>
+		<item value="tonterias"/>
+		<item value="seguridad"/>
+		<item value="microservicios"/>
 		<item value="Nacho"/>
-		<item value="Entorno"/>
 	</list>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
 		<item key="rootMode" value="1"/>
 		<item key="linkWithEditor" value="false"/>
-		<item key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1695290874751&quot;&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;"/>
+		<item key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1695290874751&quot;&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.pde.ui.BinaryProjectFilter1&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.pde.ui.ExternalPluginLibrariesFilter1&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;"/>
 	</section>
 	<section name="OptionalMessageDialog.hide.">
 		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
@@ -72,9 +77,16 @@
 		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
 		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace"/>
 		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
-		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="VehiculoApp - Actividad 4.06_Principal"/>
-		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\Users\Aarón\Desktop\Ejecutable.jar"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="ValidaProductoApp - previo examen"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\Users\Aarón\Desktop\ValidadProductoApp.jar"/>
 		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Users\Aarón\Desktop\ValidadProductoApp.jar"/>
+			<item value="C:\Users\Aarón\Desktop\Examen.jar"/>
+			<item value="C:\Users\Aarón\Desktop\Maestro.jar"/>
+			<item value="C:\Users\Aarón\Desktop\Esclava.jar"/>
+			<item value="C:\Users\Aarón\Desktop\Esclavo.jar"/>
+			<item value="C:\Users\Aarón\Desktop\ExamenPrueba.jar"/>
+			<item value="C:\Users\Aarón\Desktop\Ejecutable2.jar"/>
 			<item value="C:\Users\Aarón\Desktop\Ejecutable.jar"/>
 			<item value="ExamenUD3/Ejecutable.jar"/>
 		</list>
@@ -82,13 +94,20 @@
 			<item value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace.xml"/>
 			<item value=".xml"/>
 		</list>
+		<section name="FatJarPackageWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="603"/>
+			<item key="DIALOG_Y_ORIGIN" value="142"/>
+			<item key="DIALOG_WIDTH" value="732"/>
+			<item key="DIALOG_HEIGHT" value="575"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
 	</section>
 	<section name="javadoc">
-		<item key="javadoc_command_history" value="C:\Users\Aarón\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\jre\bin\javadoc.exe"/>
+		<item key="javadoc_command_history" value="C:\Users\Aarón\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\jre\bin\javadoc.exe;C:\Users\Aarón\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\jre\bin\javadoc"/>
 		<item key="fromStandard" value="true"/>
 		<item key="docletname" value=""/>
 		<item key="docletpath" value=""/>
-		<item key="access" value="protected"/>
+		<item key="access" value="private"/>
 		<item key="use" value="true"/>
 		<item key="author" value="true"/>
 		<item key="version" value="true"/>
@@ -99,9 +118,9 @@
 		<item key="notree" value="false"/>
 		<item key="nonavbar" value="false"/>
 		<item key="openinbrowser" value="false"/>
-		<item key="source" value="17"/>
-		<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 4.06_libreria\javadoc.xml"/>
-		<item key="destdir" value="C:\Users\Aarón\Desktop"/>
+		<item key="source" value="21"/>
+		<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ExamenCopia\javadoc.xml"/>
+		<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ExamenCopia\doc"/>
 		<item key="doctitle" value="Documentacion libreria"/>
 		<section name="projects">
 			<section name="Bucles">
@@ -109,20 +128,10 @@
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bucles\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bucles\javadoc.xml"/>
 			</section>
-			<section name="projecto 19">
+			<section name="Interfaces  graficas tema 5">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\projecto 19\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\projecto 19\javadoc.xml"/>
-			</section>
-			<section name="proyecto 6">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proyecto 6\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proyecto 6\javadoc.xml"/>
-			</section>
-			<section name="ejercicios de herencias">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios de herencias\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios de herencias\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Interfaces  graficas tema 5\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Interfaces  graficas tema 5\javadoc.xml"/>
 			</section>
 			<section name="Excepciones">
 				<item key="href" value=""/>
@@ -134,180 +143,285 @@
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\pruebas para numero aleatorio\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\pruebas para numero aleatorio\javadoc.xml"/>
 			</section>
-			<section name="ENTORNO">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ENTORNO\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ENTORNO\javadoc.xml"/>
-			</section>
-			<section name="actividad 4.06_libreria">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Desktop"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 4.06_libreria\javadoc.xml"/>
-			</section>
-			<section name="SumEntorno">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\SumEntorno\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\SumEntorno\javadoc.xml"/>
-			</section>
 			<section name="Projecto 17">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Projecto 17\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Projecto 17\javadoc.xml"/>
-			</section>
-			<section name="Actividad 3.01a">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 3.01a\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 3.01a\javadoc.xml"/>
 			</section>
 			<section name="Projecto 16">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Projecto 16\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Projecto 16\javadoc.xml"/>
 			</section>
-			<section name="ejercicios 4.02">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios 4.02\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios 4.02\javadoc.xml"/>
-			</section>
 			<section name="Projecto 14">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Projecto 14\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Projecto 14\javadoc.xml"/>
-			</section>
-			<section name="actividad 2.03c">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03c\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03c\javadoc.xml"/>
-			</section>
-			<section name="actividad 2.03b">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03b\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03b\javadoc.xml"/>
 			</section>
 			<section name="ejercicio para debugar">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicio para debugar\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicio para debugar\javadoc.xml"/>
 			</section>
-			<section name="actividad 2.03a">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03a\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03a\javadoc.xml"/>
-			</section>
-			<section name="manolo practica5">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo practica5\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo practica5\javadoc.xml"/>
-			</section>
 			<section name="projecto 9">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\projecto 9\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\projecto 9\javadoc.xml"/>
 			</section>
-			<section name="ejercicios 4.03">
+			<section name="AplicacionSwingyJDBC">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios 4.03\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios 4.03\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\AplicacionSwingyJDBC\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\AplicacionSwingyJDBC\javadoc.xml"/>
 			</section>
-			<section name="Proyecto 13">
+			<section name="Actividad 6.06 - Conjuntos">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Proyecto 13\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Proyecto 13\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 6.06 - Conjuntos\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 6.06 - Conjuntos\javadoc.xml"/>
 			</section>
-			<section name="manolo practica2">
+			<section name="ecamen">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo practica2\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo practica2\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ecamen\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ecamen\javadoc.xml"/>
 			</section>
-			<section name="MI VENTANA">
+			<section name="Bloque 07 - Utilización avanzada de herencias">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\MI VENTANA\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\MI VENTANA\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 07 - Utilización avanzada de herencias\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 07 - Utilización avanzada de herencias\javadoc.xml"/>
 			</section>
 			<section name="ejemplo2">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejemplo2\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejemplo2\javadoc.xml"/>
 			</section>
+			<section name="ProbandoVentanas">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ProbandoVentanas\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ProbandoVentanas\javadoc.xml"/>
+			</section>
 			<section name="Examen">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Examen\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Examen\javadoc.xml"/>
 			</section>
-			<section name="Actividad 4.06_Principal">
+			<section name="Bloque 05 - Gestión de ficheros">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 4.06_Principal\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 4.06_Principal\javadoc.xml"/>
-			</section>
-			<section name="REPASOEXAMEN">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\REPASOEXAMEN\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\REPASOEXAMEN\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 05 - Gestión de ficheros\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 05 - Gestión de ficheros\javadoc.xml"/>
 			</section>
 			<section name="Excepciones chekeadas">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Excepciones chekeadas\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Excepciones chekeadas\javadoc.xml"/>
 			</section>
-			<section name="ApuntesTema3">
+			<section name="refactorización 2">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ApuntesTema3\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ApuntesTema3\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\refactorización 2\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\refactorización 2\javadoc.xml"/>
 			</section>
-			<section name="Manolo practica">
+			<section name="tareaOpenWebinars">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Manolo practica\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Manolo practica\javadoc.xml"/>
-			</section>
-			<section name="Repaso">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Repaso\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Repaso\javadoc.xml"/>
-			</section>
-			<section name="proyecto 12">
-				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proyecto 12\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proyecto 12\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tareaOpenWebinars\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tareaOpenWebinars\javadoc.xml"/>
 			</section>
 			<section name="manolo pj4">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo pj4\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo pj4\javadoc.xml"/>
 			</section>
-			<section name="Porjecto 15">
+			<section name="repaso.com">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Porjecto 15\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Porjecto 15\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\repaso.com\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\repaso.com\javadoc.xml"/>
 			</section>
-			<section name="programa2">
+			<section name="Practica de refactorización">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\programa2\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\programa2\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Practica de refactorización\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Practica de refactorización\javadoc.xml"/>
 			</section>
 			<section name="ExamenUD3">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ExamenUD3\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ExamenUD3\javadoc.xml"/>
 			</section>
-			<section name="Actividadad 2.04b">
+			<section name="Examen para practicar">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividadad 2.04b\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividadad 2.04b\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Examen para practicar\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Examen para practicar\javadoc.xml"/>
+			</section>
+			<section name="Actividad 2.01">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 2.01\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 2.01\javadoc.xml"/>
 			</section>
 			<section name="Actividad 2.02">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 2.02\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 2.02\javadoc.xml"/>
 			</section>
-			<section name="proycto6">
+			<section name="Estudio">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proycto6\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proycto6\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Estudio\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Estudio\javadoc.xml"/>
 			</section>
-			<section name="Manolo practica 3">
+			<section name="aaronAD">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Manolo practica 3\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Manolo practica 3\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaronAD\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaronAD\javadoc.xml"/>
+			</section>
+			<section name="Bloque 05 - Lectura y escritura de ficheros II">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 05 - Lectura y escritura de ficheros II\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 05 - Lectura y escritura de ficheros II\javadoc.xml"/>
+			</section>
+			<section name="Bloque4">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque4\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque4\javadoc.xml"/>
+			</section>
+			<section name="proyecto 6">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proyecto 6\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proyecto 6\javadoc.xml"/>
+			</section>
+			<section name="ExUD3">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Downloads\ExUD3 (4)\ExUD3\ExUD3\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Downloads\ExUD3 (4)\ExUD3\ExUD3\javadoc.xml"/>
+			</section>
+			<section name="Practica1">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Practica1\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Practica1\javadoc.xml"/>
+			</section>
+			<section name="ENTORNO">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ENTORNO\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ENTORNO\javadoc.xml"/>
+			</section>
+			<section name="aaarepaso.com">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaarepaso.com\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaarepaso.com\javadoc.xml"/>
+			</section>
+			<section name="SumEntorno">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\SumEntorno\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\SumEntorno\javadoc.xml"/>
+			</section>
+			<section name="Bloque 06 - Expresiones regulares">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 06 - Expresiones regulares\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 06 - Expresiones regulares\javadoc.xml"/>
+			</section>
+			<section name="Actividad 3.01a">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 3.01a\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 3.01a\javadoc.xml"/>
+			</section>
+			<section name="manolo practica5">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo practica5\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo practica5\javadoc.xml"/>
+			</section>
+			<section name="Evalucion inicial">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Evalucion inicial\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Evalucion inicial\javadoc.xml"/>
+			</section>
+			<section name="manolo practica2">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo practica2\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\manolo practica2\javadoc.xml"/>
+			</section>
+			<section name="activadad 6.03">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\activadad 6.03\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\activadad 6.03\javadoc.xml"/>
+			</section>
+			<section name="Practica2">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Practica2\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Practica2\javadoc.xml"/>
+			</section>
+			<section name="Aaron_Ortiz_Recu">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Aaron_Ortiz_Recu\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Aaron_Ortiz_Recu\javadoc.xml"/>
+			</section>
+			<section name="actividad 06.1">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 06.1\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 06.1\javadoc.xml"/>
+			</section>
+			<section name="Actividad1.07">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad1.07\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad1.07\javadoc.xml"/>
+			</section>
+			<section name="pruebaHibernate">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\pruebaHibernate\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\pruebaHibernate\javadoc.xml"/>
+			</section>
+			<section name="Actividad1.06">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad1.06\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad1.06\javadoc.xml"/>
+			</section>
+			<section name="Actividad 5.06 – Prueba Práctica Bloque 05">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 5.06 – Prueba Práctica Bloque 05\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 5.06 – Prueba Práctica Bloque 05\javadoc.xml"/>
+			</section>
+			<section name="Actividad1.05">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad1.05\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad1.05\javadoc.xml"/>
+			</section>
+			<section name="ExamenPrueba">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ExamenPrueba\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ExamenPrueba\javadoc.xml"/>
+			</section>
+			<section name="Manolo practica">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Manolo practica\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Manolo practica\javadoc.xml"/>
+			</section>
+			<section name="java-t1-aos">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\java-t1-aos\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\java-t1-aos\javadoc.xml"/>
+			</section>
+			<section name="Porjecto 15">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Porjecto 15\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Porjecto 15\javadoc.xml"/>
+			</section>
+			<section name="siguiendoManual">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\siguiendoManual\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\siguiendoManual\javadoc.xml"/>
+			</section>
+			<section name="aaron.com">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaron.com\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaron.com\javadoc.xml"/>
+			</section>
+			<section name="Actividad_6.11">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad_6.11\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad_6.11\javadoc.xml"/>
+			</section>
+			<section name="hibernateAct2">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\hibernateAct2\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\hibernateAct2\javadoc.xml"/>
+			</section>
+			<section name="hibernateAct1">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\hibernateAct1\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\hibernateAct1\javadoc.xml"/>
 			</section>
 			<section name="projecto 10">
 				<item key="href" value=""/>
@@ -319,10 +433,10 @@
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\projecto 11\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\projecto 11\javadoc.xml"/>
 			</section>
-			<section name="Bloque4">
+			<section name="ejercicios01pspb">
 				<item key="href" value=""/>
-				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque4\doc"/>
-				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque4\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios01pspb\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios01pspb\javadoc.xml"/>
 			</section>
 			<section name="Actividad 2.04c">
 				<item key="href" value=""/>
@@ -333,6 +447,311 @@
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 2.04a\doc"/>
 				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 2.04a\javadoc.xml"/>
+			</section>
+			<section name="projecto 19">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\projecto 19\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\projecto 19\javadoc.xml"/>
+			</section>
+			<section name="apachemvn-t1-aos">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Dev\Core\Apache Maven\Talleres\apachemvn-t1-aos\doc"/>
+				<item key="antpath" value="C:\Dev\Core\Apache Maven\Talleres\apachemvn-t1-aos\javadoc.xml"/>
+			</section>
+			<section name="practicaEdicionLimitada">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\practicaEdicionLimitada\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\practicaEdicionLimitada\javadoc.xml"/>
+			</section>
+			<section name="Selenium.1234">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Selenium.1234\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Selenium.1234\javadoc.xml"/>
+			</section>
+			<section name="ejercicios de herencias">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios de herencias\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios de herencias\javadoc.xml"/>
+			</section>
+			<section name="ExamenCopia">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ExamenCopia\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ExamenCopia\javadoc.xml"/>
+			</section>
+			<section name="insultador">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\insultador\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\insultador\javadoc.xml"/>
+			</section>
+			<section name="ejercicios 4.02">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios 4.02\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios 4.02\javadoc.xml"/>
+			</section>
+			<section name="Aaron_Ortiz">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Aaron_Ortiz\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Aaron_Ortiz\javadoc.xml"/>
+			</section>
+			<section name="ejercicios 4.03">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios 4.03\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicios 4.03\javadoc.xml"/>
+			</section>
+			<section name="tarea 1 - entorno">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tarea 1 - entorno\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tarea 1 - entorno\javadoc.xml"/>
+			</section>
+			<section name="Bloque 05 - Lectura y escritura de información">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 05 - Lectura y escritura de información\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 05 - Lectura y escritura de información\javadoc.xml"/>
+			</section>
+			<section name="pruebaFx">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\pruebaFx\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\pruebaFx\javadoc.xml"/>
+			</section>
+			<section name="MI VENTANA">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\MI VENTANA\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\MI VENTANA\javadoc.xml"/>
+			</section>
+			<section name="Actividad 4.06_Principal">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 4.06_Principal\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 4.06_Principal\javadoc.xml"/>
+			</section>
+			<section name="REPASOEXAMEN">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\REPASOEXAMEN\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\REPASOEXAMEN\javadoc.xml"/>
+			</section>
+			<section name="Práctica Obligatoria Multiproceso">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Práctica Obligatoria Multiproceso\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Práctica Obligatoria Multiproceso\javadoc.xml"/>
+			</section>
+			<section name="Bloque 05-Lectura y escritura de ficheros">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 05-Lectura y escritura de ficheros\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 05-Lectura y escritura de ficheros\javadoc.xml"/>
+			</section>
+			<section name="Bloque 06 - Mapas">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 06 - Mapas\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 06 - Mapas\javadoc.xml"/>
+			</section>
+			<section name="aaron.practica.selenium">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaron.practica.selenium\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\aaron.practica.selenium\javadoc.xml"/>
+			</section>
+			<section name="Tarea 1">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Tarea 1\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Tarea 1\javadoc.xml"/>
+			</section>
+			<section name="ejercicio01psp">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicio01psp\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ejercicio01psp\javadoc.xml"/>
+			</section>
+			<section name="ApuntesTema3">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ApuntesTema3\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\ApuntesTema3\javadoc.xml"/>
+			</section>
+			<section name="proyecto 12">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proyecto 12\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proyecto 12\javadoc.xml"/>
+			</section>
+			<section name="programa2">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\programa2\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\programa2\javadoc.xml"/>
+			</section>
+			<section name="Bloque 07 - Utilización avanzada de">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 07 - Utilización avanzada de\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 07 - Utilización avanzada de\javadoc.xml"/>
+			</section>
+			<section name="Tarea 2">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Tarea 2\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Tarea 2\javadoc.xml"/>
+			</section>
+			<section name="Actividadad 2.04b">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividadad 2.04b\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividadad 2.04b\javadoc.xml"/>
+			</section>
+			<section name="Bloque 06 - Genericos">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 06 - Genericos\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 06 - Genericos\javadoc.xml"/>
+			</section>
+			<section name="Actividad 6.02">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 6.02\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 6.02\javadoc.xml"/>
+			</section>
+			<section name="tarea6">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tarea6\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tarea6\javadoc.xml"/>
+			</section>
+			<section name="tarea4">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tarea4\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tarea4\javadoc.xml"/>
+			</section>
+			<section name="tarea5">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tarea5\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\tarea5\javadoc.xml"/>
+			</section>
+			<section name="Actividad MS">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad MS\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad MS\javadoc.xml"/>
+			</section>
+			<section name="CalculadoraTesting">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\CalculadoraTesting\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\CalculadoraTesting\javadoc.xml"/>
+			</section>
+			<section name="Actividad 7.04 – Prueba Práctica Bloque 7">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 7.04 – Prueba Práctica Bloque 7\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 7.04 – Prueba Práctica Bloque 7\javadoc.xml"/>
+			</section>
+			<section name="Actividad 2.02 PSP">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 2.02 PSP\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 2.02 PSP\javadoc.xml"/>
+			</section>
+			<section name="actividad 4.06_libreria">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Desktop"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 4.06_libreria\javadoc.xml"/>
+			</section>
+			<section name="Examen tema 8">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Examen tema 8\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Examen tema 8\javadoc.xml"/>
+			</section>
+			<section name="actividad 2.03c">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03c\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03c\javadoc.xml"/>
+			</section>
+			<section name="actividad 2.03b">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03b\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03b\javadoc.xml"/>
+			</section>
+			<section name="actividad 2.03a">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03a\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\actividad 2.03a\javadoc.xml"/>
+			</section>
+			<section name="Actividad 6.05 - Listas">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 6.05 - Listas\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 6.05 - Listas\javadoc.xml"/>
+			</section>
+			<section name="Actividad 3.04">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 3.04\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 3.04\javadoc.xml"/>
+			</section>
+			<section name="Práctica JUNIT superbuscaminas">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Downloads\Práctica JUNIT superbuscaminas\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Downloads\Práctica JUNIT superbuscaminas\javadoc.xml"/>
+			</section>
+			<section name="java-t2-aos">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Dev\Core\Java\Talleres\java-t2-aos\doc"/>
+				<item key="antpath" value="C:\Dev\Core\Java\Talleres\java-t2-aos\javadoc.xml"/>
+			</section>
+			<section name="Proyecto 13">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Proyecto 13\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Proyecto 13\javadoc.xml"/>
+			</section>
+			<section name="prueba">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\prueba\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\prueba\javadoc.xml"/>
+			</section>
+			<section name="Repaso">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Repaso\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Repaso\javadoc.xml"/>
+			</section>
+			<section name="Actividad 8.01">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 8.01\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 8.01\javadoc.xml"/>
+			</section>
+			<section name="SuperBuscaMinas">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Downloads\Práctica JUNIT superbuscaminas\Practica superbuscaminas\superbuscaminas-master\SuperBuscaMinas\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Downloads\Práctica JUNIT superbuscaminas\Practica superbuscaminas\superbuscaminas-master\SuperBuscaMinas\javadoc.xml"/>
+			</section>
+			<section name="proycto6">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proycto6\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\proycto6\javadoc.xml"/>
+			</section>
+			<section name="Bloque 06 - XML">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 06 - XML\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 06 - XML\javadoc.xml"/>
+			</section>
+			<section name="Manolo practica 3">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Manolo practica 3\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Manolo practica 3\javadoc.xml"/>
+			</section>
+			<section name="Actividad 8.02">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 8.02\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad 8.02\javadoc.xml"/>
+			</section>
+			<section name="Bloque 07 - Expresiones Matematicas">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 07 - Expresiones Matematicas\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Bloque 07 - Expresiones Matematicas\javadoc.xml"/>
+			</section>
+			<section name="Actividad2.02">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad2.02\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad2.02\javadoc.xml"/>
+			</section>
+			<section name="Actividad2.03">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad2.03\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad2.03\javadoc.xml"/>
+			</section>
+			<section name="Actividad2.04">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad2.04\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad2.04\javadoc.xml"/>
+			</section>
+			<section name="Actividad2.05">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad2.05\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\Actividad2.05\javadoc.xml"/>
+			</section>
+			<section name="MiPrimeraVentana">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\MiPrimeraVentana\doc"/>
+				<item key="antpath" value="C:\Users\Aarón\Documents\Repostiorio-prog\eclipse-workspace\MiPrimeraVentana\javadoc.xml"/>
 			</section>
 		</section>
 	</section>
@@ -455,6 +874,88 @@
 		<item key="DIALOG_Y_ORIGIN" value="9"/>
 		<item key="DIALOG_WIDTH" value="678"/>
 		<item key="DIALOG_HEIGHT" value="877"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="OmitCallToSuper" value="false"/>
+	</section>
+	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="290"/>
+		<item key="DIALOG_Y_ORIGIN" value="9"/>
+		<item key="DIALOG_WIDTH" value="678"/>
+		<item key="DIALOG_HEIGHT" value="869"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="JavaBuildConfigurationBlock">
+		<item key="expanded0" value="true"/>
+		<item key="expanded1" value="false"/>
+		<item key="expanded2" value="false"/>
+	</section>
+	<section name="ProblemSeveritiesConfigurationBlock">
+		<item key="expanded0" value="true"/>
+		<item key="expanded1" value="false"/>
+		<item key="expanded2" value="false"/>
+		<item key="expanded3" value="false"/>
+		<item key="expanded4" value="false"/>
+		<item key="expanded5" value="false"/>
+		<item key="expanded6" value="false"/>
+		<item key="expanded7" value="false"/>
+		<item key="expanded8" value="false"/>
+	</section>
+	<section name="JavaProjectWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="374"/>
+		<item key="DIALOG_Y_ORIGIN" value="9"/>
+		<item key="DIALOG_WIDTH" value="962"/>
+		<item key="DIALOG_HEIGHT" value="1020"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="NewClassCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="344"/>
+		<item key="DIALOG_Y_ORIGIN" value="9"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="783"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="NewPackageCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="194"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="505"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="JavaFXProjectWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="9"/>
+		<item key="DIALOG_WIDTH" value="962"/>
+		<item key="DIALOG_HEIGHT" value="1020"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="JavadocWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="603"/>
+		<item key="DIALOG_Y_ORIGIN" value="142"/>
+		<item key="DIALOG_WIDTH" value="1060"/>
+		<item key="DIALOG_HEIGHT" value="753"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
+		<item key="GoIntoTopLevelTypeAction.isChecked" value="false"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH" value="550"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT" value="400"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+	</section>
+	<section name="NewAnnotationCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="618"/>
+		<item key="DIALOG_Y_ORIGIN" value="42"/>
+		<item key="DIALOG_WIDTH" value="703"/>
+		<item key="DIALOG_HEIGHT" value="716"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="NewEnumCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="99"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="631"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>

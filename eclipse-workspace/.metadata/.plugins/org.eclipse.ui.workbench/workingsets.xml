@@ -7,6 +7,7 @@
 <item elementID="=refactorización 2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=ExUD3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aaron.practica.selenium" type="4"/>
+<item elementID="=Practica2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1714115492357_4" label="NTT" name="NTT">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/apachemvn-t1-aos" type="4"/>
@@ -20,21 +21,60 @@
 <item elementID="=prueba" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726563457889_6" label="Entorno 2" name="Entorno 2">
+<item elementID="=Aaron_Ortiz" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Examen para practicar" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Evalucion inicial" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=pruebaFx" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Practica1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ProbandoVentanas" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Practica2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ProyectoFx" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Aaron_Ortiz_Recu" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/siguiendoManual" type="4"/>
+<item elementID="=ExamenPrueba" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726739937732_7" label="Nacho" name="Nacho">
 <item elementID="=Tarea 1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practicaEdicionLimitada" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tareaOpenWebinars" type="4"/>
 <item elementID="=Tarea 2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AplicacionSwingyJDBC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hibernateAct2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hibernateAct1" type="4"/>
+<item elementID="=aaronAD" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tarea6" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tarea4" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tarea5" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pruebaHibernate" type="4"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1727078583836_8" label="microservicios" name="microservicios">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ejercicio01psp" type="4"/>
 <item elementID="=Actividad MS" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=ejercicios01pspb" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad1.07" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Práctica Obligatoria Multiproceso" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad1.06" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad1.05" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad 2.01" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad 2.02 PSP" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1727698026653_9" label="seguridad" name="seguridad">
+<item elementID="=ecamen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad 3.04" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Estudio" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad2.02" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad2.03" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad2.04" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Actividad2.05" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ExamenCopia" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1728472802392_10" label="tonterias" name="tonterias">
+<item elementID="=insultador" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1695290874752_2" label="Window Working Set" name="Aggregate for window 1695290874751"/>
 <mruList name="microservicios"/>
-<mruList name="Nacho"/>
 <mruList name="Entorno 2"/>
-<mruList name="Tema 8 prog"/>
-<mruList name="NTT"/>
+<mruList name="Nacho"/>
+<mruList name="seguridad"/>
+<mruList name="tonterias"/>
 </workingSetManager>
